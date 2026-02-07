@@ -15,3 +15,12 @@ Compare COVID-19 impacts between countries and continents
 Identify patterns in infection surges and recovery rates
 
 Build interactive dashboards and visual reports for insights
+
+
+### 🛠 Tools & Technologies Used
+
+Power BI for interactive dashboards and storytelling
+
+📊 Key Insights
+
+This analysis supports public health decision-making by providing clear visualizations and statistical summaries of how COVID-19 evolved globally, helping researchers and policymakers better respond to future outbreaks.
